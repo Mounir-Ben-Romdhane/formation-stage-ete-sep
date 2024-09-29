@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">formation stage 2024</string>
+    <string name="have_account"><u>Already have an account !</u></string>
 </resources>
